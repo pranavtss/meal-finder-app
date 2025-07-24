@@ -4,6 +4,8 @@ A dynamic card-based meal listing app with pagination and scroll animations buil
 
 A React-based meal display app with a dynamic horizontal card layout. It uses Zustand for global state management, fetches data from a local JSON file (`db.json`), and applies AOS (Animate on Scroll) for smooth UI animations.
 
+🔗 **Live Demo on Vercel**: [Click here](https://your-vercel-app-name.vercel.app)
+
 ## 🔧 Features
 - Zustand for global state and pagination
 - Horizontal card layout with images, titles, and ratings
