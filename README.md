@@ -1,44 +1,35 @@
-# meal-finder-app
-A dynamic card-based meal listing app with pagination and scroll animations built in React.
-# Meal Finder App 🍽️
+# 🍽️ Meal Finder App
 
-A React-based meal display app with a dynamic horizontal card layout. It uses Zustand for global state management, fetches data from a local JSON file (`db.json`), and applies AOS (Animate on Scroll) for smooth UI animations.
+A dynamic meal listing application built with **React**, using a **horizontal card layout**, **pagination**, **Zustand** for global state, and **AOS** for scroll animations. It fetches data from a local `db.json` using the fetch API.
 
 🔗 **Live Demo on Vercel**: [Click here](https://your-vercel-app-name.vercel.app)
 
-## 🔧 Features
-- Zustand for global state and pagination
-- Horizontal card layout with images, titles, and ratings
-- AOS scroll animations on render
-- React + Tailwind + fetch API
+---
 
-## 📦 Tech Stack
-- React (Vite)
-- Zustand (state management)
-- AOS (scroll animations)
-- TailwindCSS (styling)
-- JSON server / local API (optional)
+## ✨ Features
 
-## 🚀 Setup Instructions
-1. Clone the repo  
-2. Install dependencies: `npm install`  
-3. Run the app: `npm run dev`
+- 🔁 Zustand for global state and pagination control
+- 📱 Horizontal card layout with meal images, titles, and ratings
+- 🎞️ AOS (Animate on Scroll) for smooth scroll animations
+- ⚡ Built using Vite for fast development
+- 🌐 Data fetched from a local JSON API (`db.json`)
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+---
 
-## Getting Started
+## 🛠️ Tech Stack
 
-First, run the development server:
+- ⚛️ React (Vite)
+- 🌍 Zustand (State Management)
+- 🎨 TailwindCSS (Styling)
+- 🌀 AOS (Scroll Animations)
+- 📁 Local JSON API (Optional JSON Server)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-# Meal Finder App
-
-A simple front-end project using JavaScript to search meals from an API.
+git clone https://github.com/pranavtss/meal-finder-app.git
+cd meal-finder-app
