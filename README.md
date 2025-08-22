@@ -2,7 +2,7 @@
 
 A dynamic meal listing application built with **React**, using a **horizontal card layout**, **pagination**, **Zustand** for global state, and **AOS** for scroll animations. It fetches data from a local `db.json` using the fetch API.
 
-🔗 **Live Demo on Vercel**: [Click here](https://your-vercel-app-name.vercel.app)
+🔗 **Live Demo on Vercel**: [Click here](https://meal-finder-app-omega.vercel.app/)
 
 ---
 
